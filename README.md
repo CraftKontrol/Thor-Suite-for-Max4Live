@@ -1,3 +1,4 @@
+![alt text](https://github.com/CraftKontrol/Thor-Suite-for-Max4Live/blob/main/Images/ThorSuite.png?raw=true)
 # Thor suite for Max4Live
 Thor is a modular suite of OSC plugins
 (require Max/Msp 6.0 or higher)
