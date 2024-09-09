@@ -18,22 +18,22 @@ Thor allows to make 8 tracks fully monitored with midi, frequency and dynamic, 8
 ![Transthor image](https://github.com/CraftKontrol/Thor-Suite-for-Max4Live/blob/main/Images/Transthor_Usage.png?raw=true)
 
 ## Midithor
-![Transthor image](https://github.com/CraftKontrol/Thor-Suite-for-Max4Live/blob/main/Images/Midithor_Usage.png?raw=true)
+![Midithor image](https://github.com/CraftKontrol/Thor-Suite-for-Max4Live/blob/main/Images/Midithor_Usage.png?raw=true)
 
 ## Freckthor
-![Transthor image](https://github.com/CraftKontrol/Thor-Suite-for-Max4Live/blob/main/Images/Freckthor_Usage.png?raw=true)
+![Freckthor image](https://github.com/CraftKontrol/Thor-Suite-for-Max4Live/blob/main/Images/Freckthor_Usage.png?raw=true)
 
 ## Dynathor
-![Transthor image](https://github.com/CraftKontrol/Thor-Suite-for-Max4Live/blob/main/Images/Dynathor_Usage.png?raw=true)
+![Dynathor image](https://github.com/CraftKontrol/Thor-Suite-for-Max4Live/blob/main/Images/Dynathor_Usage.png?raw=true)
 
 ## Clipthor
-![Transthor image](https://github.com/CraftKontrol/Thor-Suite-for-Max4Live/blob/main/Images/Clipthor_Usage.png?raw=true)
+![Clipthor image](https://github.com/CraftKontrol/Thor-Suite-for-Max4Live/blob/main/Images/Clipthor_Usage.png?raw=true)
 
 ## Speckthor
-![Transthor image](https://github.com/CraftKontrol/Thor-Suite-for-Max4Live/blob/main/Images/Speckthor_Usage.png?raw=true)
+![Speckthor image](https://github.com/CraftKontrol/Thor-Suite-for-Max4Live/blob/main/Images/Speckthor_Usage.png?raw=true)
 
 ## Masthor
-![Transthor image](https://github.com/CraftKontrol/Thor-Suite-for-Max4Live/blob/main/Images/Masthor_Usage.png?raw=true)
+![Masthor image](https://github.com/CraftKontrol/Thor-Suite-for-Max4Live/blob/main/Images/Masthor_Usage.png?raw=true)
 
 ## Checkthor
-![Transthor image](https://github.com/CraftKontrol/Thor-Suite-for-Max4Live/blob/main/Images/Checkthor_Usage.png?raw=true)
+![Checkthor image](https://github.com/CraftKontrol/Thor-Suite-for-Max4Live/blob/main/Images/Checkthor_Usage.png?raw=true)
