@@ -11,11 +11,6 @@ Thor suite is designed to be modular, and allow the user to make it’s own syst
 
 Thor allows to make 8 tracks fully monitored with midi, frequency and dynamic, 8 tracks with tracking of clip names and a single spectrum analyser on the master, with a minimum latency over the network.
 
-# Contents
-
-<div style="background-color: lightblue; padding: 10px;">
-  <p>This is a paragraph with a light blue background.</p>
-</div>
 
     
 
