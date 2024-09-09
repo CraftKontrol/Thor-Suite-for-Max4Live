@@ -1,7 +1,7 @@
 ![Thor suite image](https://github.com/CraftKontrol/Thor-Suite-for-Max4Live/blob/main/Images/ThorSuite.png?raw=true)
 # Thor suite for Max4Live
 Thor is a modular suite of OSC plugins
-(require Max/Msp 6.0 or higher)
+(require Max/Msp 8.0 or higher)
 
 with a full set of listeners: dynamic, midi, transport,
 spectrum, frequency, clip names
