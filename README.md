@@ -13,6 +13,12 @@ Thor allows to make 8 tracks fully monitored with midi, frequency and dynamic, 8
 
 # Contents
 
+<div style="background-color: lightblue; padding: 10px;">
+  <p>This is a paragraph with a light blue background.</p>
+</div>
+
+    
+
 ## Transthor
 ![Transthor image](https://github.com/CraftKontrol/Thor-Suite-for-Max4Live/blob/main/Images/Transthor_Usage.png?raw=true)
 
