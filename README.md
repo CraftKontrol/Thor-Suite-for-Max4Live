@@ -85,6 +85,9 @@ Clipthor is a clip name listener.
 It uses le Live Object Model to watch
 the name of a played clip.
 
+Can be used in string or numeric mode with a spcace between scene and cue.
+(MyScene 01, or 01 05, or 01 MyCue)
+
 ### Usage:
 Clipthor is an audio effect.
 
